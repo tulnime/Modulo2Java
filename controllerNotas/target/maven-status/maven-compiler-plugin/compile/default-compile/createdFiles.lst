@@ -1,0 +1,5 @@
+com\mycompany\controllernotas\main.class
+com\mycompany\controllernotas\Modelo\modeloNotas.class
+com\mycompany\controllernotas\Vista\vistaNotas.class
+com\mycompany\controllernotas\Modelo\Estudiantes.class
+com\mycompany\controllernotas\Controller\ControllerNota\controllerNotas.class
